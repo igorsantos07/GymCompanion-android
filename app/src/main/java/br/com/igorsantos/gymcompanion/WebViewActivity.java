@@ -26,10 +26,6 @@ public class WebViewActivity extends Activity {
         settings.setJavaScriptEnabled(true);
         settings.setDomStorageEnabled(true);
         settings.setDatabaseEnabled(true);
-
-        //TODO: seems to be supported only by KitKat...
-//        settings.setLayoutAlgorithm(WebSettings.LayoutAlgorithm.TEXT_AUTOSIZING);
-//        settings.setTextZoom(105);
         settings.setUseWideViewPort(false);
 
         mWebView.loadUrl("file:///android_asset/webapp/index.html");
