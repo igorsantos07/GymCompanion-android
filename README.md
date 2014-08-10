@@ -8,6 +8,6 @@ GymCompanion version for Android.
 Issues reporting
 ----------------
 
-Got a problem? Go to the [parent project's issues](issues).
+Got a problem? Go to the [parent project's issues][issues].
 
 [issues]:https://github.com/igorsantos07/GymCompanion/labels/env:Android%20Web%20UI
